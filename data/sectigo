@@ -9,6 +9,9 @@ trust-provider.cn @cn
 trust-provider.com
 usertrust.com
 
+# Not in Mainland China
+oemssl.cn
+
 # Sub brand
 aoc.cat
 catcert.cat
