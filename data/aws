@@ -8,12 +8,8 @@ acmvalidations.com
 acmvalidationsaws.com
 aesworkshops.com
 amazonaws-china.com
-amazonaws.biz
 amazonaws.co.uk
 amazonaws.com
-amazonaws.info
-amazonaws.net
-amazonaws.org
 amazonaws.tv
 amazonses.com
 amazonworkdocs.com
@@ -43,5 +39,4 @@ elasticbeanstalk.com
 thinkboxsoftware.com
 
 # AWS DNS
-regexp:.+\.amzndns\.(co\.uk|com|net|org)$
 regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
