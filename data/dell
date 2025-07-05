@@ -55,6 +55,7 @@ dell.az
 dell.be
 dell.bg
 dell.bi
+dell.bs
 dell.by
 dell.ca
 dell.cd
@@ -106,13 +107,16 @@ dell.com.mt
 dell.com.mx
 dell.com.my
 dell.com.na
+dell.com.ng
 dell.com.ni
 dell.com.pa
 dell.com.pe
 dell.com.ph
 dell.com.pk
+dell.com.pl
 dell.com.pr
 dell.com.py
+dell.com.ru
 dell.com.sa
 dell.com.sg
 dell.com.tc
@@ -155,8 +159,10 @@ dell.mq
 dell.mu
 dell.mw
 dell.net
+dell.ng
 dell.nl
 dell.no
+dell.org.il
 dell.ph
 dell.pl
 dell.ps
@@ -217,6 +223,7 @@ full:gbxgateway.dell.com @cn
 full:i.dell.com @cn
 full:p.cdn.persaas.dell.com @cn
 full:scene7-cdn.dell.com @cn
+full:si.cdn.dell.com @cn
 full:snpi.dell.com @cn
 full:www.dell.com @cn
 
